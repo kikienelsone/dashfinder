@@ -1,0 +1,48 @@
+.btn-fin{
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+   align-items: center;
+}
+
+.btn-res{
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.btn {
+    width: 95px;
+    background: #2EE5AC;
+    border-radius: 10px;
+    border: 1px solid #2EE5AC;
+    height: 40px;
+    margin-left: 200px;
+}
+
+.btn-fin:hover{
+    color: #1d8062;
+}
+
+.btn-res:hover{
+    color: #1d8062;
+
+}
+
+.site{
+margin-left: 100px;
+}
+
+.status{
+    color: #2EE5AC;
+
+}
+
+.css-177gid-MuiTableCell-root {
+    color: #2EE5AC;
+}
+
+.table{
+    margin-bottom: 20px;
+}

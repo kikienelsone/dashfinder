@@ -1,0 +1,18 @@
+.results{
+    color: #8d8a8a;
+}
+
+.content{
+    color: #8d8a8a;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 24px;
+    display: flex;
+
+}
+
+.link:hover{
+    color: #2EE5AC;
+}
